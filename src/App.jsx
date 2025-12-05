@@ -98,7 +98,7 @@ function App() {
 <div className='cont'>
 
       <p className='bigTitle'>Общественный проект</p>
-      <p>выполнено в рамках освоения дисциплины "Обучение служением" малой группой №4</p>
+      <p>выполнено в рамках освоения дисциплины "Обучение служением" малой группой №4.</p>
         <section className="about-section" id="about">
           <h2 className="section-title animate-in">
             О Нас
