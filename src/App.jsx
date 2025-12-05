@@ -94,6 +94,11 @@ function App() {
       {/* Main Content */}
       <main className="main">
         {/* About Section */}
+
+<div className='cont'>
+
+      <p className='bigTitle'>Общественный проект</p>
+      <p>выполнено в рамках освоения дисциплины "Обучение служением" малой группой №4</p>
         <section className="about-section" id="about">
           <h2 className="section-title animate-in">
             О Нас
@@ -125,6 +130,7 @@ function App() {
             </p>
           </div>
         </section>
+</div>
 
         {/* Stats Section */}
         <section className="stats-section animate-in animate-delay-2">
@@ -138,7 +144,6 @@ function App() {
 
       {/* Footer */}
       <footer className="footer">
-        <p>predannoeserdce.ru</p>
       </footer>
 
       {/* Scroll to Top Button */}

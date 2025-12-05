@@ -4,6 +4,22 @@
   flex-direction: column;
 }
 
+.bigTitle {
+  font-size: 3rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 32px;
+  position: relative;
+}
+
+.cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 3em;
+}
+
 /* Header */
 .header {
   position: sticky;
